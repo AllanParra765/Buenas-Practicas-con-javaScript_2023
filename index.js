@@ -12,6 +12,7 @@ console.log(Element.name);
 //async await
 //https://youtu.be/Z4TuS0HEJP8?t=3331
 //https://youtu.be/Q3HtXuDEy5s?t=1202
+//https://wesbos.com/tips
 
 const obtenerpokemon = async => {
   try{
